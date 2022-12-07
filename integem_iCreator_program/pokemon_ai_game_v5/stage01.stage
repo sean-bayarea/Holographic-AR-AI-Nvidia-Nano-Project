@@ -1,0 +1,12 @@
+curPeopleNo=1
+shaderChoice=1
+stageAction=0
+BGdirectory=\images/bg/otherBG
+BGImageFileName=Credit_original.jpg
+BGTxtFile=stage01.bg
+BGTxtChange=stage01.bgc
+stageChoices=1
+stageFile=stage0.stage
+NextStage=11
+NextStageTime=30
+scriptID=8

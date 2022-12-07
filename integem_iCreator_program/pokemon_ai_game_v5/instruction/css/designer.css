@@ -1,0 +1,208 @@
+#topleftimg1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 50px;
+  left: 100px;
+}
+#topleftimg2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 250px;
+  left: 100px;
+}
+#topleftimg3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 450px;
+  left: 100px;
+}
+#topleftimg4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 650px;
+  left: 100px;
+}
+#toprightimg1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 50px;
+  right: 100px;
+}
+#toprightimg2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 250px;
+  right: 100px;
+}
+#toprightimg3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 450px;
+  right: 100px;
+}
+#toprightimg4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  top: 650px;
+  right: 100px;
+}
+#bottomleftimg1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 50px;
+  left: 100px;
+}
+#bottomleftimg2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 250px;
+  left: 100px;
+}
+#bottomleftimg3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 450px;
+  left: 100px;
+}
+#bottomleftimg4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 650px;
+  left: 100px;
+}
+#bottomrightimg1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 50px;
+  right: 100px;
+}
+#bottomrightimg2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 250px;
+  right: 100px;
+}
+#bottomrightimg3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 450px;
+  right: 100px;
+}
+#bottomrightimg4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  height: 200px;
+  bottom: 650px;
+  right: 100px;
+}
+#toplefttext1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 0em);
+  left: 300px;
+}
+#toplefttext2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 2em);
+  left: 300px;
+}
+#toplefttext3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 4em);
+  left: 300px;
+}
+#toplefttext4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 6em);
+  left: 300px;
+}
+#toprighttext1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 0em);
+  right: 300px;
+}
+#toprighttext2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 2em);
+  right: 300px;
+}
+#toprighttext3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 4em);
+  right: 300px;
+}
+#toprighttext4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  top: calc(50px + 6em);
+  right: 300px;
+}
+#bottomlefttext1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 0em);
+  left: 300px;
+}
+#bottomlefttext2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 2em);
+  left: 300px;
+}
+#bottomlefttext3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 4em);
+  left: 300px;
+}
+#bottomlefttext4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 6em);
+  left: 300px;
+}
+#bottomrighttext1 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 0em);
+  right: 300px;
+}
+#bottomrighttext2 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 2em);
+  right: 300px;
+}
+#bottomrighttext3 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 4em);
+  right: 300px;
+}
+#bottomrighttext4 {
+  position: absolute;
+  font-family: "Comic Sans MS", sans-serif;
+  bottom: calc(50px + 6em);
+  right: 300px;
+}

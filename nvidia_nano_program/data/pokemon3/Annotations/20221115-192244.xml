@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20221115-192244.jpg</filename>
+    <folder>pokemon3</folder>
+    <source>
+        <database>pokemon3</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>charizard</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>112</xmin>
+            <ymin>89</ymin>
+            <xmax>350</xmax>
+            <ymax>317</ymax>
+        </bndbox>
+    </object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+    <filename>20221202-012100.jpg</filename>
+    <folder>pokemon3</folder>
+    <source>
+        <database>pokemon3</database>
+        <annotation>custom</annotation>
+        <image>custom</image>
+    </source>
+    <size>
+        <width>640</width>
+        <height>480</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>sandslash</name>
+        <pose>unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>157</xmin>
+            <ymin>99</ymin>
+            <xmax>507</xmax>
+            <ymax>437</ymax>
+        </bndbox>
+    </object>
+</annotation>

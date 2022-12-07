@@ -1,0 +1,5 @@
+maxPeopleNo=4
+currentFolder=D:\Sean\nvdia_ai_training\integem_iCreator_program\pokemon_ai_game_v5
+firstStage=stage1.stage
+HDRatio=1,2
+Multiple=2

@@ -1,0 +1,3 @@
+TotalGoodies=2
+GoodyIniNum=0
+GoodyIniNum=0
